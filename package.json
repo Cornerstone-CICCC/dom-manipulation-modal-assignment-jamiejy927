@@ -1,0 +1,22 @@
+{
+  "name": "dom-manipulation-modal-assignment-jamiejy927",
+  "version": "1.0.0",
+  "description": "- The DOM is a programming interface for HTML and XML documents. - It represents the page so that programs can change the document structure, style, and content. - The DOM represents the document as nodes and objects. That way, programming languages can connect to the page. - The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript. - It has properties and methods for accessing and interacting with all the elements of an HTML document.",
+  "main": "modal.js",
+  "scripts": {
+    "dev": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/dom-manipulation-modal-assignment-jamiejy927.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/dom-manipulation-modal-assignment-jamiejy927/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/dom-manipulation-modal-assignment-jamiejy927#readme"
+}
