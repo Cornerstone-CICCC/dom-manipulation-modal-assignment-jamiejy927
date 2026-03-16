@@ -1,5 +1,9 @@
 # DOM (Document Object Model)
 
+## Deployed Link
+
+https://dom-manipulation-modal.netlify.app/exercise.html
+
 ## What is the DOM?
 
 - The DOM is a programming interface for HTML and XML documents.
